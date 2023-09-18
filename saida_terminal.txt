@@ -1,0 +1,15 @@
+[i] Configurando o teste.
+[i] Executando teste sem threading.
+[i] Iniciando o teste com threading=False
+[i] Número total de quadros: 341
+[i] Frames por segundo: 86.07, com threading=False
+.[i] Configurando o teste.
+[i] Executando teste com threading.
+[i] Iniciando o teste com threading=True
+[i] Número total de quadros: 341
+[i] Frames por segundo: 146.60, com threading=True
+.
+----------------------------------------------------------------------
+Ran 2 tests in 6.485s
+
+OK
